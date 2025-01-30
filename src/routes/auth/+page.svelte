@@ -148,7 +148,7 @@
 					<img
 						crossorigin="anonymous"
 						src="{WEBUI_BASE_URL}/static/ar-emblem.png"
-						class=" w-6 rounded-full dark:invert"
+						class=" w-6 rounded-full"
 						alt="logo"
 					/>
 				</div>
