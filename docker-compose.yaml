@@ -14,7 +14,7 @@ services:
       args:
         OLLAMA_BASE_URL: '/ollama'
       dockerfile: Dockerfile
-    image: ardata-tech/open-webui:latest
+    image: ghcr.io/ardata-tech/open-webui:latest
     container_name: open-webui
     volumes:
       - open-webui:/app/backend/data
