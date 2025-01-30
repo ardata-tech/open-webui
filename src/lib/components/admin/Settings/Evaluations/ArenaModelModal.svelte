@@ -33,7 +33,7 @@
 		}
 	};
 
-	let profileImageUrl = '/favicon.png';
+	let profileImageUrl = '/ar-emblem.png';
 	let description = '';
 
 	let selectedModelId = '';
@@ -88,7 +88,7 @@
 
 		name = '';
 		id = '';
-		profileImageUrl = '/favicon.png';
+		profileImageUrl = '/ar-emblem.png';
 		description = '';
 		modelIds = [];
 		selectedModelId = '';
