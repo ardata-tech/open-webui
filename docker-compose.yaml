@@ -14,7 +14,7 @@ services:
       args:
         OLLAMA_BASE_URL: '/ollama'
       dockerfile: Dockerfile
-    image: ghcr.io/ardata-tech/open-webui:update/change-logo
+    image: ghcr.io/ardata-tech/open-webui:change-logo
     container_name: open-webui
     volumes:
       - open-webui:/app/backend/data
