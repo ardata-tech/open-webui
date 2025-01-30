@@ -14,7 +14,6 @@ services:
       args:
         OLLAMA_BASE_URL: '/ollama'
       dockerfile: Dockerfile
-      target: change-logo
     image: ardata-tech/open-webui:latest
     container_name: open-webui
     volumes:
