@@ -325,7 +325,7 @@
 												placement="top-start"
 											>
 												<img
-													src={item.model?.info?.meta?.profile_image_url ?? '/static/ar-emblem.png'}
+													src={'/static/ar-emblem.png'}
 													alt="Model"
 													class="rounded-full size-5 flex items-center mr-2"
 												/>
